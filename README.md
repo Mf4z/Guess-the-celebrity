@@ -16,4 +16,4 @@ Guess who the celebrity is by see a picture of the celebrity and choosing the co
 [Guess the celebrity](https://drive.google.com/open?id=1QObgsz6dWMpLDGW70bsE57gGPvn7Ufym)
 
 ## License
-[MIT License](./LICENSE.md)
+[MIT License](/LICENSE.md)
