@@ -1,5 +1,5 @@
 # Guess-the-celebrity
-Guess who the celebrity is by see a picture of the celebrity and choosing the correct answer
+Guess who the celebrity is by seeing a picture of the celebrity and choosing the correct answer
 
 ## Features
 - Download Image from web
